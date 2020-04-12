@@ -1,0 +1,16 @@
+---
+name: Hub
+version: 0.0.1
+main: Shallow\Hub\Main
+api: 3.6.5
+commands:
+
+  spawn:
+    description: "Teleport To Spawn"
+
+  lobby:
+    description: "Teleport To Lobby"
+
+  hub:
+    description: "Teleport To Hub"
+...
